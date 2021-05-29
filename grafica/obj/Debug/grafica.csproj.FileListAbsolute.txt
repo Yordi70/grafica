@@ -1,0 +1,11 @@
+C:\Users\yordi\OneDrive\Escritorio\ProgramacionGrafica\grafica\grafica\bin\Debug\grafica.exe.config
+C:\Users\yordi\OneDrive\Escritorio\ProgramacionGrafica\grafica\grafica\bin\Debug\grafica.exe
+C:\Users\yordi\OneDrive\Escritorio\ProgramacionGrafica\grafica\grafica\bin\Debug\grafica.pdb
+C:\Users\yordi\OneDrive\Escritorio\ProgramacionGrafica\grafica\grafica\bin\Debug\OpenTK.dll
+C:\Users\yordi\OneDrive\Escritorio\ProgramacionGrafica\grafica\grafica\bin\Debug\OpenTK.pdb
+C:\Users\yordi\OneDrive\Escritorio\ProgramacionGrafica\grafica\grafica\bin\Debug\OpenTK.xml
+C:\Users\yordi\OneDrive\Escritorio\ProgramacionGrafica\grafica\grafica\obj\Debug\grafica.csproj.AssemblyReference.cache
+C:\Users\yordi\OneDrive\Escritorio\ProgramacionGrafica\grafica\grafica\obj\Debug\grafica.csproj.CoreCompileInputs.cache
+C:\Users\yordi\OneDrive\Escritorio\ProgramacionGrafica\grafica\grafica\obj\Debug\grafica.csproj.CopyComplete
+C:\Users\yordi\OneDrive\Escritorio\ProgramacionGrafica\grafica\grafica\obj\Debug\grafica.exe
+C:\Users\yordi\OneDrive\Escritorio\ProgramacionGrafica\grafica\grafica\obj\Debug\grafica.pdb
